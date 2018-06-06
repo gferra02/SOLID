@@ -1,4 +1,4 @@
-// Single Responisibility Principle
+// Single Responsibility Principle
 
 // A class should have one, and only one reason to change.
 // If a class as more than one responsibility, a change in one behaviour
