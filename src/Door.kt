@@ -1,3 +1,9 @@
+// Single Responisibility Principle
+
+// A class should have one, and only one reason to change.
+// If a class as more than one responsibility, a change in one behaviour
+// might cause a cascading effect on coupled behaviour(s)
+
 interface CanBeOpened {
     fun open()
 }
